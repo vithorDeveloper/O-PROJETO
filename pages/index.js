@@ -1,5 +1,5 @@
 const Home = () => {
-  return <h1>Oi Ruth eu te amo, se voçe me ama dar uma risadinha!!!</h1>
+  return <h1>Marcando o "marco 0" aqui, e o primeiro dia do meu desafio, "um commit todo dia"</h1>
 }
 
 export default Home
